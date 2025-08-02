@@ -9,4 +9,4 @@ https://www.udemy.com/course/unreal-engine-5-advanced-action-rpg/
 
 I learned a lot about the GAS system and developed my C++ skills.
 
-See LICENSE for details.
+See License for details.
