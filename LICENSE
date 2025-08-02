@@ -1,37 +1,46 @@
+========================================
 Copyright Notice and Usage Terms
-================================
+========================================
 
-All original code and assets in this repository that are authored by Vince Petrelli
-are copyrighted by Vince Petrelli.
+All original code and assets in this repository authored by Vince Petrelli
+are copyrighted by him.
 
-This repository includes code developed and customized by Ahmet Fatih Senelmis.
+This repository also includes code developed and customized by Ahmet Fatih Senelmis,
+based on the educational material provided by Vince Petrelli.
 
-Usage Terms:
-------------
+----------------------------------------
+Usage Terms
+----------------------------------------
 
-- Code originating from Vince Petrelli’s course and this repository
-  is intended for informational and educational purposes only.
+- Code and assets originating from Vince Petrelli’s course and this repository
+  are intended for informational and educational purposes only.
 
-- Commercial use of Vince Petrelli’s original code and assets
-  is strictly prohibited without explicit permission from Vince Petrelli.
+- Commercial use of Vince Petrelli’s original code and assets is strictly prohibited
+  without explicit written permission from him.
 
-- For commercial use inquiries, please contact Vince Petrelli directly:
-  https://github.com/vinceright3
-  https://www.udemy.com/course/unreal-engine-5-advanced-action-rpg/
+- For commercial inquiries, please contact Vince Petrelli directly:
+    GitHub: https://github.com/vinceright3
+    Udemy : https://www.udemy.com/course/unreal-engine-5-advanced-action-rpg/
 
-- Your own contributions in this repository are shared under the MIT License (see LICENSE file).
+> Although I have added my own implementations and customizations to this project,
+> the foundation is based on Vince Petrelli’s educational material.
+> I respectfully acknowledge his work as the primary source and fully adhere
+> to its licensing terms.
 
-Sharing and Collaboration:
---------------------------
+----------------------------------------
+Sharing and Collaboration
+----------------------------------------
 
-- You may fork and share this repository for learning and non-commercial purposes.
+- You may fork and share this repository for non-commercial and educational use.
 
 - If you intend to use any part of Vince Petrelli’s original code commercially,
-  you must obtain permission from Vince Petrelli.
+  you must obtain permission from him.
 
-- Please respect the licensing and attribution requirements.
+- Please respect licensing requirements and provide proper attribution.
 
-Disclaimer:
------------
+----------------------------------------
+Disclaimer
+----------------------------------------
 
-This code is provided “as is” without any warranty. Use it at your own risk.
+This code is provided “as is”, without any warranties or guarantees.
+Use at your own risk.
