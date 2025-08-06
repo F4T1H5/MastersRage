@@ -28,6 +28,19 @@ Usage Terms
 > to its licensing terms.
 
 ----------------------------------------
+Asset Usage and Licensing
+----------------------------------------
+
+- This project makes use of both free and paid assets obtained via Fab (by Epic Games).
+
+- All such assets are used exclusively within Unreal Engine and under Epic’s
+  Standard Fab License terms. No assets are included in this repository.
+
+- This repository is for code demonstration and educational use only.
+  Users who wish to use assets must obtain them directly from Fab or other authorized sources
+  and comply with their respective license agreements.
+
+----------------------------------------
 Sharing and Collaboration
 ----------------------------------------
 
